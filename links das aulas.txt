@@ -1,0 +1,19 @@
+Segue cronograma das aulas ao vivo.
+
+📅 Módulo Básico - UC1 a UC5
+Data: Todas as segundas-feiras às 19:00
+Link da Sala Virtual: https://bit.ly/basico-aula-ao-vivo
+ 
+📅 Metodologias Ágeis:
+Data: Todas as terças-feiras às 19:00
+Link da Sala Virtual: https://bit.ly/met-ageis-aula-ao-vivo
+ 
+📅 Versionamento:
+Data: Todas as quartas-feiras às 19:00
+Link da Sala Virtual: https://bit.ly/versionamento-aula-ao-vivo
+ 
+📅 Lógica de Programação:
+Data: Todas as quintas-feiras às 19:00
+Link da Sala Virtual: https://bit.ly/log-de-prog-aula-ao-vivo
+
+Das unidades que já acabaram o prazo de realização, só participem se não tiverem
